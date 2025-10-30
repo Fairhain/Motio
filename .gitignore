@@ -1,5 +1,5 @@
 node_modules/
-src/services/firebase/initFirebase.ts
+# src/services/firebase/initFirebase.ts
 venv/
 .venv/
 
